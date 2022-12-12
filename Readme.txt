@@ -4,6 +4,6 @@ I have used the "adult" dataset from "https://archive.ics.uci.edu/ml/datasets/ad
 
 I have done some data cleaning and data visualization.
 
-Tried to use different classifiers and compare them.
+Tried to use different classifiers and compare them based on balanced accuracy and F1 score.
 
-Lastly, I used a voting classifier by including the better performing models.
+Lastly, I have used a voting classifier by including only the better performing models.
